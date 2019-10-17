@@ -7,5 +7,9 @@ namespace ComicaManager.helpers
 {
     public class Helper
     {
+        //this is a change 
+        public Helper() { 
+            
+        }
     }
 }
