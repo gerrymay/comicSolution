@@ -9,6 +9,8 @@ namespace ComicaManager.Pages
 {
     public class IndexModel : PageModel
     {
+		
+		//this method must be implement
         public void OnGet()
         {
 
